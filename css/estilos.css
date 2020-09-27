@@ -1,0 +1,17 @@
+body
+{
+    padding:10px;
+    margin:40px;
+    font-size: 24px;
+    font-family: Helvetica;
+    background-image:url(https://s1.1zoom.me/big0/601/Planets_523794_1280x720.jpg);
+    background-repeat: repeat;
+    color: white;
+}
+
+nav
+{
+    background-color: white;
+    padding: 0px;
+    color:#68b4f2;
+}
